@@ -10,6 +10,7 @@
 
   <project name="apps/tdi_api_si3217x.git" path="tdi_api_si3217x.git" />
   <project name="voip/log" path="log" />
-  <project name="voip/dsp_5vt" path="dsp_5vt" revision="refs/heads/develop" />
+  <project name="voip/dsp_5vt_sdk" path="dsp_5vt_sdk" revision="refs/heads/develop" />
+  <project name="voip/ortp" path="ortp" />
   <project name="voip/evoip" path="evoip" revision="refs/heads/develop" />
 </manifest>
