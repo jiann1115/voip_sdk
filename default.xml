@@ -8,9 +8,14 @@
 	   revision="refs/heads/master"
 	   sync-j="1" />
 
+  <project name="drivers/16xx/external_interrupt.git" path="drivers/external_interrupt" />
+  <project name="drivers/16xx/aci.git" path="drivers/aci" />
+  <project name="drivers/16xx/spi.git" path="drivers/spi" />
   <project name="apps/tdi_api_si3217x.git" path="tdi_api_si3217x.git" />
+
   <project name="voip/log" path="log" />
   <project name="voip/dsp_5vt_sdk" path="dsp_5vt_sdk" revision="refs/heads/develop" />
   <project name="voip/ortp" path="ortp" />
+  <project name="voip/xmlparse" path="xmlparse" />
   <project name="voip/evoip" path="evoip" revision="refs/heads/develop" />
 </manifest>
