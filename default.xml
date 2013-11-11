@@ -14,6 +14,7 @@
   <project name="apps/tdi_api_si3217x.git" path="apps/tdi_api_si3217x.git" />
 
   <project name="voip/log" path="apps/log" />
+  <project name="voip/dsp_5vt" path="apps/dsp_5vt" revision="refs/heads/develop" />
   <project name="voip/dsp_5vt_sdk" path="apps/dsp_5vt_sdk" revision="refs/heads/develop" />
   <project name="voip/ortp" path="apps/ortp" />
   <project name="voip/xmlparse" path="apps/xmlparse" />
